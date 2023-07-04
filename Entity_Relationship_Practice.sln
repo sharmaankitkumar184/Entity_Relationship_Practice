@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity_Relationship_Practice", "Entity_Relationship_Practice\Entity_Relationship_Practice.csproj", "{27BE7E7A-FB60-49AF-A1C2-2B37CB3D426B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27BE7E7A-FB60-49AF-A1C2-2B37CB3D426B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BE7E7A-FB60-49AF-A1C2-2B37CB3D426B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BE7E7A-FB60-49AF-A1C2-2B37CB3D426B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BE7E7A-FB60-49AF-A1C2-2B37CB3D426B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74457F77-6739-4A34-85BC-0FE476E448BE}
+	EndGlobalSection
+EndGlobal
